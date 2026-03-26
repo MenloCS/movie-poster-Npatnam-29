@@ -29,32 +29,32 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice:** 
+- **Movie Title:**  Project Hail Mary
+- **Why I chose this movie:**  Because it has all of the sci - fi elements but also a little realism
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  Wonder, mystery
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  The ship the "Hail Mary" from the book and Dr. Grace doing a space walk on that shp
+- **Why this element:**  Because it is a big point of the movie
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  Avoid including Rocky's ship, or the Blip A
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  Black (like space)
+- **Accent color(s):**  White (for the ship and astronaut suit), red (for the pertrova line)
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  Vibrant
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
+- [X] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
