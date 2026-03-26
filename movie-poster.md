@@ -68,14 +68,14 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Step 1
 
 - **What worked:**  It generated the ship and main character
 - **What didn't work:**  It didn't generate anything in the background
 - **What I'll change for next attempt:**  Add more steps for the background
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  The ship should be half off screen and Dr. Grace should be floating over it, and they should be looking at a planet with the petrova line being all around them
 
 - **What worked:**  It generated more but still missing key atributes
 - **What didn't work:**  the red line across the screen
@@ -89,19 +89,19 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Dont show the character's face, dont display his name, have the planet take up more of the background have a tether connect to the ship and dont add the red at all
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It generated the ship connected to the astronaut
+- **What didn't work:**  The scale and the framing
+- **What I'll change for next attempt:**  Change the framing
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  make the frame back to a square not a circle, and using color display the alien rocky in the background
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  It generated it all right
+- **What didn't work:**  Nothing went wrong
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?)  Attempt 4, it was the most accurate to what I wanted and what my final idea of the design was gonna be.
 
 ---
 
