@@ -58,7 +58,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description:**  The Main character who is the one doing the space walk
 
 ---
 
@@ -70,16 +70,16 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 **Attempt 1:**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It generated the ship and main character
+- **What didn't work:**  It didn't generate anything in the background
+- **What I'll change for next attempt:**  Add more steps for the background
 
 **Attempt 2:**  
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It generated more but still missing key atributes
+- **What didn't work:**  the red line across the screen
+- **What I'll change for next attempt:**  Be more clear about what I want
 
 ---
 
