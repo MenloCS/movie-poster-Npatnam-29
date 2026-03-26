@@ -133,12 +133,14 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
-
+- I think it came out fairly similar to my ideas and the design stayed the same, just the overdone and confusing ideas that I prompted I took out because it couldnt handle it.
 
 **What decision are you most proud of that the AI didn't make for you?**  
+The background showing one of the side characters through the color and outline of his shape
 
 
 **What would you do differently next time?**  
+Spend more time trying to prompt the real diffferences I wanted to add
 
 
 ---
@@ -146,9 +148,9 @@ Compare your original creative brief to your final poster. What changed? What st
 ## Final Checklist
 
 Before submitting, make sure your repo contains:
-- [ ] This completed `movie-poster-project.md` file  
-- [ ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
-- [ ] At least 5 commits showing your progress  
+- [X] This completed `movie-poster-project.md` file  
+- [X] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
+- [X] At least 5 commits showing your progress  
 
 ---
 
